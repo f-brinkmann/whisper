@@ -1,8 +1,10 @@
-There are two possible ways (at least):
+---------------------------
+To start Whisper in Matlab
+---------------------------
 
 Play around:
 
-navigate to folder 'whisPER 1.9.1\2 mfiles'
+navigate to folder '2 mfiles'
 execute whisper.m with Matlab
 when asked, change Matlab's current working directory to that of whisper.m
 
@@ -10,5 +12,19 @@ when asked, change Matlab's current working directory to that of whisper.m
 Permanent usage of whisper:
 
 open Matlab
-add folder "whisPER 1.9.1” to Matlab's path
+add folder "2 mfiles” to Matlab's path
 at Matlab prompt type: whisper 
+
+
+----------------
+For Instructions
+----------------
+
+See '3 doc/whisper_userdoc.pdf'
+
+
+----------------------------
+For adding or modifying code
+----------------------------
+
+See '3 doc/whisper_techdoc.pdf' (in German)
