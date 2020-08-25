@@ -1,0 +1,74 @@
+updated 19.06.2015 
+
+0001
+- RGT/SD: auch wenn ein stimulus mehrfach in einem durchlauf 
+präsentiert wird, wird nur eine einzige Spalte im export-file angelegt
+
+
+0002 testseries -> new -> "create" without filled in path and/or 
+foldername throws mkdir error at prompt
+
+
+0003
+- bei den Ergebnisplots in den adaptive Versuchen verdeckt 
+die Legende die Messwerte am Ende (legend außerhalb figure verlegen)
+
+0004 adaptive procedures -> exported figures do not display trials at highest 
+stimulus level (current workaround: saved as Matlab *.fig)
+
+
+0005
+- Ein heftiger Whisper Bug ist, dass die Reihenfolge der Sektionen 
+eines Runs im nachhinein verändert werden kann. D.h. sind ein
+paar Runs bereits durchgeführt worden mit z.B. einer Folge 
+(unterschiedlicher) Sektionen-Typen: 1:RGT, 2:SD und 3:A/B/X, so kann mittendrinn diese
+Reihenfolge (auf z.B. 1:A/B/X 2:SD 3:RGT ) verändert werden, 
+was zu heftigen Inskonsistenzen in den mat-Files sorgt. Dies 
+muss entweder verhindert
+oder die Datenstruktur dementsprechend dann umkopiert werden.
+
+0006
+- habe whisper nur unter Matlab Windows zum laufen bekommen, 
+unter OSX startet es zwar aber ranzt zwischendrinn immer mal 
+ab bzw. reagiert nicht auf Eingaben... da scheint es noch ein 
+paar andere Probleme als die fileseps zu geben... jmd sollte 
+viell, ein großes whisper Projekt anlegen, in dem sämtliche 
+Testtypen (mehrmals) vorkommen und v.a. alle Ratings/Konstruke 
+etc. enthalten sind, damit besser getestet werden kann (war 
+hier am zeitaufwändigsten, konnte deshalb auch nicht alles checken...)
+
+0007
+bei den Schwellwertverläufen, die WhisPER automatisch erzeugt 
+(jedenfalls bei meinem Versuchsablauf: adaptiv, 3-AFC) fehlt 
+in der Legende ein "p" (da steht immer "negative resonse") =) 
+Das nur so zur Info...
+
+0008
+- Das gridXML Format ist von Martin Fromm (Author von GridSuite) 
+vorgeschlagen worden. Die Demovesion unterstützt dummerweise 
+keinen Import (SIC!), weshalb ich ihn persönlich kontaktiert 
+habe, damit er meine exportierten XMLs testet. Er hat ein paar 
+screenshots geschickt (sie scheinen also zu funktionieren). 
+... der GridConverter von Gridsuite ist ganz gut (erfordert 
+kommerzielle Lizenz) ... d.h. man kann dann per gridXML von 
+Whisper->Gridsuite Converter->in alle möglichen Gridformate 
+(u.a. auch Idiogrid) konvertieren. Ich habe erstmal so gut es 
+geht die Meta-daten mit in die exportierten Files geschrieben. 
+Wenn z.B. auch die Benennung der exportierten Files keinen 
+Sinn macht... dann bitte ändern...
+
+0009
+Mac kompatibilitaet: scheint jetzt soweit ok (getestet mit SAQI), 
+Grafikproblem: Die gršssen der Slider sind bei Mac und Win 
+unterschiedlich. Dadurch stehen die Label an falschen stellen 
+und verzerren die Skalen. Sollte man unter MAC vorerst nicht 
+benutzen.
+
+0010:
+
+- bei RGT, Elicitations-GUI verschoben
+
+Feature-Requests:
+
+- bei RGT, Adaptive Verfahren, ABX: Audio-Stop-Button hinzufügen
+- bei RGT, Adaptive Verfahren, ABX: Automatischer Audio-Stop bei Abschließen eines Trials

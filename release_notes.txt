@@ -1,0 +1,91 @@
+
+WhisPER - release notes
+-----------------------
+-----------------------
+
+this release
+version 1.9.2
+date: 25-Augist-2020
+
+version update to 1.9. --> update includes minor bug fixes only
+
+
+history
+-------
+version 1.9.1
+date: 11-September-2017
+
+version update to 1.9. --> update includes minor bug fixes only
+
+version 1.9.0
+date: 2-December-2014
+
+version update to 1.9. --> update includes new test procedures
+- added multiple-stimulus version of SAQI
+- added ITU-R Rec. BS.1116-1 (ABC/HR) test
+- added ITU-R Rec. BS.1534-1(MUSHRA) test
+
+
+version 1.8.1
+date: 17-April-2014
+
+- changed in saqi_items_english.m 
+from "reverberation level" to "level of reverberation"
+from "reverberation time" to "duration of reverberation"
+
+
+version 1.8.0
+date: 26-March-2014
+
+- changed version counting to 
+[X.Y.Z]
+X = major update
+Y = update includes relevant new features (i.e. new test procedures)
+Z = bugfix 
+- changed license to GNU
+- added SAQI (EN/GER) questionnaire test
+- changed OSC capabilities to depend on udp-functions from Matlabs Instrument Control Toolbox  (instead of using Andy Schemders dll)
+
+
+
+version 1.0.7
+date: 23-Jun-2010
+- added GRidXML- and Idiogrid-format export for RGT tests
+
+version 1.0.6
+date: 12-Jun-2010
+-ZEST + QUEST added
+-stimulus pool enhancements
+-Linux compatibility (filepaths + OSC)
+-configuration tool added
+
+version 1.0.5
+date: ???
+-ABX test added
+
+version 1.0.4
+date: 05-Jun-2009
+-license changed
+
+version 1.0.3
+date: 10-May-2009
+-bugfix (sequence setup)
+date: 14-May-2009
+-show_about.fig updated; no effect on functionality
+
+version 1.0.2
+date: 07-May-2009
+-minor fixes
+
+version 1.0.1
+date: 22-Jan-2009
+-fixed logging (RGT)
+-some minor improvements of GUI
+-removed toolbox dependence
+
+version 1.0
+date: 17-Nov-2008
+first release
+
+
+

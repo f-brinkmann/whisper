@@ -1,0 +1,21 @@
+Die Anleitung zum packagebau von Whisper (unter Win32):
+
+1. Matlab öffnen --> in der Commandozeile "deploytool" tippen und Enter
+
+2. Im sich geöffneten Deployment Tool das Symbol für Neues Projekt (weißes Blatt oben links) drücken, Ordner und Namen des Projektes festlegen.
+    Als Zielanwendung den ersten Eintrag "Standalone Application" wählen.
+
+3. Es wird eine Ordnerbaum erzeugt mit den Ordnern "main function", "Other files" und "C/C++ files".
+
+4. In den Ordner "main function" wird die Datei "whisperm" gezogen (am besten direkt aus dem Matlabexplorer). Mehr nicht.
+
+5. In den Ordner "Other files" werden alle anderen Dateien aus dem Whisperordner gezogen, außer: die OSC-Libraries (*.dll) und sämtliche txt-Dateien.
+    Ergo landen im Ordner alle *.m, *.fig und *.mat Dateien.
+
+6. Jetzt im deployment tool den "Build the project"-Button drücken, warten (es dauert  keinen ganzen Kaffee) und schon liegt im Projektordner
+    im Unterordner "distrub" eine ausführbare *.exe-Datei (vorrausgesetzt Matlab und die MatlabCompilerRuntime) sind installiert.
+
+Ansonsten:
+
+7. Nach dem "Build" noch den daneben liegenden Button "Package the project" drücken, im "distrub"-Ordner liegt jetzt auch ein installierbares Paket,
+    meist um die 250 MB groß. Kann auf jedem Rechner mit Win32 installiert werden, dass Package enthält allen Kram.

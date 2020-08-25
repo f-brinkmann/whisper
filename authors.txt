@@ -1,0 +1,11 @@
+Written by:
+  Simon Ciba and André Wlodarski
+
+
+Contributions by:
+ Johannes Blickensdorff
+ Matthias Herder
+ Andreas Rotter
+ Martina Vrhovnik
+ Fabian Brinkmann
+ Alexander Lindau

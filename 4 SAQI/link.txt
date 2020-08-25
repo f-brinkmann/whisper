@@ -1,0 +1,7 @@
+please go to:
+
+https://depositonce.tu-berlin.de/
+
+and look for the latest version of SAQI and all associated files
+
+(currently, Dec. 2nd 2014, SAQI is in vs. 1.2)
