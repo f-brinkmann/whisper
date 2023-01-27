@@ -1,0 +1,674 @@
+[
+  {
+    "name": "Unterschied",
+    "name_id": 0,
+    "definition": "Existenz eines wahrnehmbaren Unterschieds.",
+    "category": null,
+    "category_id": 0,
+    "scale_label": [
+      "gar keiner",
+      "gar keiner"
+    ],
+    "is_unipolar": 1,
+    "is_dichotom": 0,
+    "is_degree_scale": 0
+  },
+  {
+    "name": "Klangfarbe hell-dunkel",
+    "name_id": 1,
+    "definition": "Klangeindruck, der durch das Verhältnis hoher zu tiefer Frequenzanteile bestimmt wird.",
+    "category": "Klangfarbe",
+    "category_id": 1,
+    "scale_label": [
+      "dunkler",
+      "dunkler"
+    ],
+    "is_unipolar": 0,
+    "is_dichotom": 0,
+    "is_degree_scale": 0
+  },
+  {
+    "name": "Klangfarbliche Ausprägung im Höhenbereich",
+    "name_id": 2,
+    "definition": "Klangliche Veränderungen in einem begrenzten Frequenzbereich.",
+    "category": "Klangfarbe",
+    "category_id": 1,
+    "scale_label": [
+      "Höhen abgesenkt",
+      "Höhen abgesenkt"
+    ],
+    "is_unipolar": 0,
+    "is_dichotom": 0,
+    "is_degree_scale": 0
+  },
+  {
+    "name": "Klangfarbliche Ausprägung im Mittenbereich",
+    "name_id": 3,
+    "definition": "Klangliche Veränderungen in einem begrenzten Frequenzbereich.",
+    "category": "Klangfarbe",
+    "category_id": 1,
+    "scale_label": [
+      "Mitten abgesenkt",
+      "Mitten abgesenkt"
+    ],
+    "is_unipolar": 0,
+    "is_dichotom": 0,
+    "is_degree_scale": 0
+  },
+  {
+    "name": "Klangfarbliche Ausprägung im Tiefenbereich",
+    "name_id": 4,
+    "definition": "Klangliche Veränderungen in einem begrenzten Frequenzbereich.",
+    "category": "Klangfarbe",
+    "category_id": 1,
+    "scale_label": [
+      "Tiefen abgesenkt",
+      "Tiefen abgesenkt"
+    ],
+    "is_unipolar": 0,
+    "is_dichotom": 0,
+    "is_degree_scale": 0
+  },
+  {
+    "name": "Schärfe",
+    "name_id": 5,
+    "definition": "Klangeindruck, der z.B. auf den Kraftaufwand schließen lässt, mit dem eine Klangquelle angeregt wird.\nBeispiele:\n- hart/weich angeschlagene Perkussionsinstrumente\n- hart/weich gezupfte Saiteninstrumente (klassische Gitarre, Harfe)\n- Eine Überbetonung hoher Frequenzen kann einen 'scharfen' Klangeindruck fördern.\n",
+    "category": "Klangfarbe",
+    "category_id": 1,
+    "scale_label": [
+      "schwächer ausgeprägt",
+      "schwächer ausgeprägt"
+    ],
+    "is_unipolar": 0,
+    "is_dichotom": 0,
+    "is_degree_scale": 0
+  },
+  {
+    "name": "Rauigkeit",
+    "name_id": 6,
+    "definition": "Klangeindruck heftiger oder aggressiver Modulation/Vibration,\nwobei Einzelschwingungen kaum mehr unterscheidbar sind.\nOft als unangenehm bewertet.\n",
+    "category": "Klangfarbe",
+    "category_id": 1,
+    "scale_label": [
+      "schwächer ausgeprägt",
+      "schwächer ausgeprägt"
+    ],
+    "is_unipolar": 0,
+    "is_dichotom": 0,
+    "is_degree_scale": 0
+  },
+  {
+    "name": "Kammfilterartigkeit",
+    "name_id": 7,
+    "definition": "Oft tonal wirkende Klangverfrbung. 'Hohler' Klang.\nBeispiel: Sprechen durch ein Rohr.\n",
+    "category": "Klangfarbe",
+    "category_id": 1,
+    "scale_label": [
+      "schwächer ausgeprägt",
+      "schwächer ausgeprägt"
+    ],
+    "is_unipolar": 0,
+    "is_dichotom": 0,
+    "is_degree_scale": 0
+  },
+  {
+    "name": "Metallische Klangfarbe",
+    "name_id": 8,
+    "definition": "Klangverfärbung, die von schmalbandig-resonierenden Anteilen geprägt ist, häufig als Resultat einer geringen Eigenfrequenzdichte.\nHäufig bei Anregung von metallenen Gegenständen wie z.B. Gongs, Glocken, scheppernde Blechdosene hörbar.\nAnwendbar auch auf Raumsimulationen, Plattenhall, Hallfolie u..\n",
+    "category": "Klangfarbe",
+    "category_id": 1,
+    "scale_label": [
+      "schwächer ausgeprägt",
+      "schwächer ausgeprägt"
+    ],
+    "is_unipolar": 0,
+    "is_dichotom": 0,
+    "is_degree_scale": 0
+  },
+  {
+    "name": "Tonhaltigkeit",
+    "name_id": 9,
+    "definition": "Wahrnehmbarkeit einer Tonhöhe in einem Klang.\nBeispiele tonhaltiger Signale:\n- Stimmhafte Sprachanteile,\n- Pieptöne.\n",
+    "category": "Tonalität",
+    "category_id": 2,
+    "scale_label": [
+      "weniger tonal",
+      "weniger tonal"
+    ],
+    "is_unipolar": 0,
+    "is_dichotom": 0,
+    "is_degree_scale": 0
+  },
+  {
+    "name": "Tonhöhe",
+    "name_id": 10,
+    "definition": "Die Tonhöhenwahrnehmung erlaubt die Anordnung tonhaltiger Signale entlang einer Skala: 'höher - tiefer'.",
+    "category": "Tonalität",
+    "category_id": 2,
+    "scale_label": [
+      "tiefer",
+      "tiefer"
+    ],
+    "is_unipolar": 0,
+    "is_dichotom": 0,
+    "is_degree_scale": 0
+  },
+  {
+    "name": "Dopplereffekt",
+    "name_id": 11,
+    "definition": "Veränderung der Tonhöhe. Oft als 'kontinuierliche Verstimmung' wahrgenommen.\nBeispiel: 'Verstimmter' Klang der Sirene eines schnell vorbeifahrenden Krankenwagens.\n",
+    "category": "Tonalität",
+    "category_id": 2,
+    "scale_label": [
+      "schwächer ausgeprägt",
+      "schwächer ausgeprägt"
+    ],
+    "is_unipolar": 0,
+    "is_dichotom": 0,
+    "is_degree_scale": 0
+  },
+  {
+    "name": "Richtung Azimut",
+    "name_id": 12,
+    "definition": "Richtung von Schallquellen in der Horizontalebene.",
+    "category": "Geometrie",
+    "category_id": 3,
+    "scale_label": [
+      "entgegen dem Uhrzeigersinn versetzt",
+      "entgegen dem Uhrzeigersinn versetzt"
+    ],
+    "is_unipolar": 0,
+    "is_dichotom": 0,
+    "is_degree_scale": 1
+  },
+  {
+    "name": "Richtung Elevation",
+    "name_id": 13,
+    "definition": "Richtung von Schallquellen in der Vertikalebene.",
+    "category": "Geometrie",
+    "category_id": 3,
+    "scale_label": [
+      "nach unten versetzt",
+      "nach unten versetzt"
+    ],
+    "is_unipolar": 0,
+    "is_dichotom": 0,
+    "is_degree_scale": 1
+  },
+  {
+    "name": "Vorn-Hinten-Lage",
+    "name_id": 14,
+    "definition": "Meint nur die Lage vor bzw. hinter dem Hörer.\nEindruck des Positionsunterschieds einer Schallquelle, der bei Positionsspiegelung an der durch den Hörer gehend gedachten Frontalebene zustande kommt.\n",
+    "category": "Geometrie",
+    "category_id": 3,
+    "scale_label": [
+      "nicht vertauscht",
+      "nicht vertauscht"
+    ],
+    "is_unipolar": 1,
+    "is_dichotom": 1,
+    "is_degree_scale": 0
+  },
+  {
+    "name": "Entfernung",
+    "name_id": 15,
+    "definition": "Wahrgenommene Distanz einer Schallquelle.",
+    "category": "Geometrie",
+    "category_id": 3,
+    "scale_label": [
+      "näher",
+      "näher"
+    ],
+    "is_unipolar": 0,
+    "is_dichotom": 0,
+    "is_degree_scale": 0
+  },
+  {
+    "name": "Tiefenausdehnung",
+    "name_id": 16,
+    "definition": "Wahrgenommene Ausdehnung einer Schallquelle in radialer Richtung.",
+    "category": "Geometrie",
+    "category_id": 3,
+    "scale_label": [
+      "kürzer",
+      "kürzer"
+    ],
+    "is_unipolar": 0,
+    "is_dichotom": 0,
+    "is_degree_scale": 0
+  },
+  {
+    "name": "Breitenausdehnung",
+    "name_id": 17,
+    "definition": "Wahrgenommene Ausdehnung einer Schallquelle in horizontaler Richtung.",
+    "category": "Geometrie",
+    "category_id": 3,
+    "scale_label": [
+      "schmaler",
+      "schmaler"
+    ],
+    "is_unipolar": 0,
+    "is_dichotom": 0,
+    "is_degree_scale": 0
+  },
+  {
+    "name": "Höhenausdehnung",
+    "name_id": 18,
+    "definition": "Wahrgenommene Ausdehnung einer Schallquelle in vertikaler Richtung.",
+    "category": "Geometrie",
+    "category_id": 3,
+    "scale_label": [
+      "niedriger",
+      "niedriger"
+    ],
+    "is_unipolar": 0,
+    "is_dichotom": 0,
+    "is_degree_scale": 0
+  },
+  {
+    "name": "Externalisierungsgrad",
+    "name_id": 19,
+    "definition": "Beschreibt die Deutlichkeit, mit der eine Schallquelle - unabhängig von ihrer Distanz - innerhalb oder auerhalb des Kopfes wahrgenommen wird.\nFachlich oft auch zwischen Phänomenen 'Im-Kopf-Lokalisation' und 'Außer-Kopf-Lokalisation' eingegrenzt.\nBeispiele:\n- Schlecht/nicht externalisiert = wahrgenommener Schallquellenort bei diotischer Schallpräsentation per Kopfhörer;\n- Gut/stark externalisiert = wahrgenommener Schallquellenort beim Hören einer natürlichen Schallquelle in nachhallbehafteter Umgebung unter Zulassen von Bewegungen des Hörers.\n",
+    "category": "Geometrie",
+    "category_id": 3,
+    "scale_label": [
+      "internalisierter",
+      "internalisierter"
+    ],
+    "is_unipolar": 0,
+    "is_dichotom": 0,
+    "is_degree_scale": 0
+  },
+  {
+    "name": "Lokalisierbarkeit",
+    "name_id": 20,
+    "definition": "Bei geringer Lokalisierbarkeit sind räumliche Ausdehnung und Ort einer Schallquelle schlecht abschätzbar bzw. erscheinen diffus.\nBei hoher Lokalisierbarkeit erscheint eine Schallquelle dagegen klar umgrenzt.\nGeringe bzw. groe Lokalisierbarkeiten gehen oft mit großer bzw. geringer wahrgenommener Ausdehnung einer Schallquelle einher.\nBeispiel: Schallquellen in stark diffusen Schallfeldern sind schlecht lokalisierbar.\n",
+    "category": "Geometrie",
+    "category_id": 3,
+    "scale_label": [
+      "unpräziser",
+      "unpräziser"
+    ],
+    "is_unipolar": 0,
+    "is_dichotom": 0,
+    "is_degree_scale": 0
+  },
+  {
+    "name": "Räumliches Zerfallen",
+    "name_id": 21,
+    "definition": "Schallquellen, die erfahrungsgem eine einheitliche räumliche Gestalt haben sollten, erscheinen räumlich separiert.\nMögliche Ursache:\nTeile der Schallquelle werden verschiedentlich synthetisiert/simuliert und zwischen den Syntheseverfahren/-engines besteht ein fälschlicher oder ungewollter Versatz bzgl. räumlicher Parameter.\nBeispiele:\n- Griffgeräusche und Töne einer Instrumentenquelle kommen nicht vom selben Ort\n- Frikative und Vokale eines Sprechers werden getrennt synthetisiert und dann fälschlich räumlich versetzt wiedergegeben\n",
+    "category": "Geometrie",
+    "category_id": 3,
+    "scale_label": [
+      "fusionierter",
+      "fusionierter"
+    ],
+    "is_unipolar": 0,
+    "is_dichotom": 0,
+    "is_degree_scale": 0
+  },
+  {
+    "name": "Nachhallstärke",
+    "name_id": 22,
+    "definition": "Wahrnehmung starker Raumanteile, ausgelöst durch ein hohes Verhältnis von reflektierter zu direkter Schallenergie. Führt bei stationrer Anregung zum Eindruck hoher Diffusität (im Sinne eines geringen D/R-Verähltnisses).\nBeispiel: Die empfundene Nachhallstärke unterscheidet sich wesentlich zwischen eher kleinen und sehr großen Räumen, wie z.B. zwischen Wohnzimmern und Kirchen.\n",
+    "category": "Raum",
+    "category_id": 4,
+    "scale_label": [
+      "schwächer ausgeprägt",
+      "schwächer ausgeprägt"
+    ],
+    "is_unipolar": 0,
+    "is_dichotom": 0,
+    "is_degree_scale": 0
+  },
+  {
+    "name": "Nachhalldauer",
+    "name_id": 23,
+    "definition": "Dauer des Nachhall-Ausklangvorgangs. Vor allem am Ende von Signalen hörbar.",
+    "category": "Raum",
+    "category_id": 4,
+    "scale_label": [
+      "kürzer",
+      "kürzer"
+    ],
+    "is_unipolar": 0,
+    "is_dichotom": 0,
+    "is_degree_scale": 0
+  },
+  {
+    "name": "Nachhallumhüllung",
+    "name_id": 24,
+    "definition": "Wahrnehmung des 'vom-Nachhall-räumlich-umhüllt-Seins'. Bei hoher Nachhallumhllung kann dem Nachhall nur schwer ein spezifischer Ort, eine begrenzte Ausdehnung oder eine Vorzugsrichtung zugewiesen werden. Eindrcke eher niedriger bzw. eher hoher Nachhallumhüllung entstehen z.B. bei diotisch vs. dichotisch (z.B. dekorreliert) präsentiertem verhallten Material.\n",
+    "category": "Raum",
+    "category_id": 4,
+    "scale_label": [
+      "schwächer ausgeprägt",
+      "schwächer ausgeprägt"
+    ],
+    "is_unipolar": 0,
+    "is_dichotom": 0,
+    "is_degree_scale": 0
+  },
+  {
+    "name": "Vorechos",
+    "name_id": 25,
+    "definition": "Kopien von Schallquellen mit meist geringerer Lautheit bereits vor Beginn des eigentlich intendierten Klangeinsatzes.",
+    "category": "Zeitverhalten",
+    "category_id": 5,
+    "scale_label": [
+      "schwächer ausgeprägt",
+      "schwächer ausgeprägt"
+    ],
+    "is_unipolar": 0,
+    "is_dichotom": 0,
+    "is_degree_scale": 0
+  },
+  {
+    "name": "Nachechos",
+    "name_id": 26,
+    "definition": "Kopien von Schallquellen mit meist abnehmender Lautheit nach Beginn des eigentlich intendierten Klangeinsatzes.\nBeispiel: Wiederholung der eigenen Stimme durch Reflektion an Gebirgswänden.\n",
+    "category": "Zeitverhalten",
+    "category_id": 5,
+    "scale_label": [
+      "schwächer ausgeprägt",
+      "schwächer ausgeprägt"
+    ],
+    "is_unipolar": 0,
+    "is_dichotom": 0,
+    "is_degree_scale": 0
+  },
+  {
+    "name": "Zeitliches Zerfallen",
+    "name_id": 27,
+    "definition": "Objekte, die erwartungsgemäß eine einheitliche zeitliche Gestalt haben, erscheinen zeitlich separiert. Ursache analog zu 'räumliches Zerfallen', nur: hier zeitliche Versätze bei Synthese.\nBeispiel: Griffgeräusche und Töne einer Instrumentenquelle kommen nicht zur selben Zeit.\n",
+    "category": "Zeitverhalten",
+    "category_id": 5,
+    "scale_label": [
+      "fusionierter",
+      "fusionierter"
+    ],
+    "is_unipolar": 0,
+    "is_dichotom": 0,
+    "is_degree_scale": 0
+  },
+  {
+    "name": "Knackigkeit",
+    "name_id": 28,
+    "definition": "Eigenschaft, die durch die Impulstreue von Systemen beeinflusst wird. Wahrnehmung des Verlaufs von Einschwingvorgängen. Können im Vergleich weicher/verschliffener/weniger präzise, aber auch umgekehrt schneller/präziser/exakter sein.\nBeispiel für 'verschliffenere' Transienten: Ein Übertragungssystem, das starke Gruppenlaufzeitverzerrungen einfügt.\nGegenbeispiel: Ergebnis einer auf Linearphasigkeit abzielenden Phasenentzerrung.\n",
+    "category": "Zeitverhalten",
+    "category_id": 5,
+    "scale_label": [
+      "schwächer ausgeprägt",
+      "schwächer ausgeprägt"
+    ],
+    "is_unipolar": 0,
+    "is_dichotom": 0,
+    "is_degree_scale": 0
+  },
+  {
+    "name": "Wiedergabegeschwindigkeit",
+    "name_id": 29,
+    "definition": "Eine Szene läuft inhaltlich & klanglich identisch aber offensichtlich schneller oder langsamer ab. Muss nicht mit Tonhöhenänderung einhergehen.\nBeispiele technischer Ursachen:\n- Umdrehungsgeschwindigkeit\n- Sample Rate Conversion\n- Time Stretching\n- Veränderte Pausen zwischen Signaleinsätzen\n- Bewegungen laufen mit veränderter Geschwindigkeit ab\n",
+    "category": "Zeitverhalten",
+    "category_id": 5,
+    "scale_label": [
+      "verlangsamt",
+      "verlangsamt"
+    ],
+    "is_unipolar": 0,
+    "is_dichotom": 0,
+    "is_degree_scale": 0
+  },
+  {
+    "name": "Szenenablauf",
+    "name_id": 30,
+    "definition": "Reihenfolge oder Auftreten von Szenekomponenten.\nBeispiel: Ein Hund bellt plötzlich am Schluss, anstatt - wie in der Referenz - zu Beginn.\n",
+    "category": "Zeitverhalten",
+    "category_id": 5,
+    "scale_label": [
+      "unverändert",
+      "unverändert"
+    ],
+    "is_unipolar": 1,
+    "is_dichotom": 0,
+    "is_degree_scale": 0
+  },
+  {
+    "name": "Reaktionsschnelligkeit",
+    "name_id": 31,
+    "definition": "Eigenschaft, die durch Latenzen im System beeinflusst wird. Zur Unterscheidung von einerseits mehr, andererseits weniger verzögerten Reaktionen der Wiedergabeumgebung auf Nutzerinteraktionen.",
+    "category": "Zeitverhalten",
+    "category_id": 5,
+    "scale_label": [
+      "geringer",
+      "geringer"
+    ],
+    "is_unipolar": 0,
+    "is_dichotom": 0,
+    "is_degree_scale": 0
+  },
+  {
+    "name": "Lautheit",
+    "name_id": 32,
+    "definition": "Wahrgenommene Lautstärke einer Schallquelle. Verschwinden von Objekten ist durch Lautheit = 0 abbildbar.\nBeispiel eines Lautheitsgegensatzes: Flüstern vs. Schreien.\n",
+    "category": "Dynamik",
+    "category_id": 6,
+    "scale_label": [
+      "leiser",
+      "leiser"
+    ],
+    "is_unipolar": 0,
+    "is_dichotom": 0,
+    "is_degree_scale": 0
+  },
+  {
+    "name": "Dynamik",
+    "name_id": 33,
+    "definition": "Größe der Lautheitsunterschiede zwischen lauten und leisen Passagen. Bei Signalen geringerer Dynamik unterscheiden sich laute und leise Passagen weniger von der durchschnittlichen Lautheit. Dagegen enthalten Signale mit hoher Dynamik sowohl sehr laute als auch sehr leise Passagen.",
+    "category": "Dynamik",
+    "category_id": 6,
+    "scale_label": [
+      "geringer",
+      "geringer"
+    ],
+    "is_unipolar": 0,
+    "is_dichotom": 0,
+    "is_degree_scale": 0
+  },
+  {
+    "name": "Kompressoreffekte",
+    "name_id": 34,
+    "definition": "Klangveränderungen jenseits des langfristigen Lautheitsverlaufs. Sammelkategorie für eine Vielzahl von durch Dynamikkompression hervorgerufenen Perzepten.\nBeispiele: Kompakterer Klang eines summenkomprimierten Musiktracks gegenüber dem unbearbeiteten Original.\n'Kompressorpumpen': Bei Signalenergiespitzen (Bassdrumeinstze, Plosivlaute) fällt die Signallautheit plötzlich ab und kehrt nach einer spürbaren Zeitspanne wieder auf das vorherige Niveau zurück.\n",
+    "category": "Dynamik",
+    "category_id": 6,
+    "scale_label": [
+      "schwächer ausgeprägt",
+      "schwächer ausgeprägt"
+    ],
+    "is_unipolar": 0,
+    "is_dichotom": 0,
+    "is_degree_scale": 0
+  },
+  {
+    "name": "Tonhaltiges Fremdgeräusch",
+    "name_id": 35,
+    "definition": "Ausbildung einer eigenständigen, in der Szene eindeutig nicht intendierten Wahrnehmungsgestalt.\nBeispiel: Ein eindeutig nicht zur präsentierten Szene gehöriger Störton, wie z.B. ein unerwarteter Piepton 'aus der Technik'.\n",
+    "category": "Artefakte",
+    "category_id": 7,
+    "scale_label": [
+      "schwächer ausgeprägt",
+      "schwächer ausgeprägt"
+    ],
+    "is_unipolar": 0,
+    "is_dichotom": 0,
+    "is_degree_scale": 0
+  },
+  {
+    "name": "Impulshaftes Fremdgeräusch",
+    "name_id": 36,
+    "definition": "Ausbildung einer eigenständigen, in der Szene eindeutig nicht intendierten Wahrnehmungsgestalt.\nBeispiel: Ein eindeutig nicht zur präsentierten Szene gehöriges, kurzes Störgeräusch wie z.B. ein Knacksen 'aus der Technik'.\n",
+    "category": "Artefakte",
+    "category_id": 7,
+    "scale_label": [
+      "schwächer ausgeprägt",
+      "schwächer ausgeprägt"
+    ],
+    "is_unipolar": 0,
+    "is_dichotom": 0,
+    "is_degree_scale": 0
+  },
+  {
+    "name": "Rauschhaftes Fremdgeräusch",
+    "name_id": 37,
+    "definition": "Ausbildung einer eigenständigen, in der Szene eindeutig nicht intendierten Wahrnehmungsgestalt.\nBeispiel: Ein eindeutig nicht zur präsentierten Szene gehöriges Rauschen wie z.B. ein Hintergrundrauschen von Lüftern.\n",
+    "category": "Artefakte",
+    "category_id": 7,
+    "scale_label": [
+      "schwächer ausgeprägt",
+      "schwächer ausgeprägt"
+    ],
+    "is_unipolar": 0,
+    "is_dichotom": 0,
+    "is_degree_scale": 0
+  },
+  {
+    "name": "Fremdquelle",
+    "name_id": 38,
+    "definition": "Ausbildung einer eigenständigen, in der Szene eindeutig nicht intendierten Wahrnehmungsgestalt.\nBeispiele:\n- ein eingekoppeltes Radiosignal\n- ein versehentlich nicht 'stumm' geschalteter Mischpultkanal\n",
+    "category": "Artefakte",
+    "category_id": 7,
+    "scale_label": [
+      "schwächer ausgeprägt",
+      "schwächer ausgeprägt"
+    ],
+    "is_unipolar": 0,
+    "is_dichotom": 0,
+    "is_degree_scale": 0
+  },
+  {
+    "name": "Geisterquelle",
+    "name_id": 39,
+    "definition": "Räumlich getrenntes, annhernd gleichzeitiges, nicht unbedingt identisches, Abbild einer Schallquelle.\nEine Art örtliche Signalkopie: Eine Schallquelle taucht an einem oder mehreren zusätzlichen Orten in der Szene auf.\nBeispiele:\n- Zwei Schallquellen geben fälschlich denselben Audioinhalt wieder.\n- Doppelabbildung bei Mischungen mit Haupt-/Stützmikrofonierung.\n- Räumliches Aliasing bei WFS: Schallquellen werden als richtungsmehrdeutig wahrgenommen.\n",
+    "category": "Artefakte",
+    "category_id": 7,
+    "scale_label": [
+      "schwächer ausgeprägt",
+      "schwächer ausgeprägt"
+    ],
+    "is_unipolar": 0,
+    "is_dichotom": 0,
+    "is_degree_scale": 0
+  },
+  {
+    "name": "Verzerrungen",
+    "name_id": 40,
+    "definition": "Perzept infolge von nichtlinearen Verzerrungen, wie sie z.B. durch Übersteuerungen entstehen. Kratziger oder 'kaputter' Sound. Oft von Signalamplitude abhngig. Kann seine Qualität je nach Art der Übersteuerung stark ändern.\nBeispiel: Clipping bei Übersteuerung von digitalen Eingangsstufen.\n",
+    "category": "Artefakte",
+    "category_id": 7,
+    "scale_label": [
+      "schwächer ausgeprägt",
+      "schwächer ausgeprägt"
+    ],
+    "is_unipolar": 0,
+    "is_dichotom": 0,
+    "is_degree_scale": 0
+  },
+  {
+    "name": "Vibration",
+    "name_id": 41,
+    "definition": "Wahrnehmung am Grenzbereich zwischen auditiver und taktiler Modalitt. Spürbarkeit von Vibrationen, die von einer Schallquelle verursacht werden, z.B. durch mechanische Ankopplung an Auflagefälchen. \nBeispiele:\n- Livekonzert: Bass 'geht in den Magen'.\n- Kopfhörerauflagen vibrieren spürbar auf Ohren/an Schläfe.\n",
+    "category": "Artefakte",
+    "category_id": 7,
+    "scale_label": [
+      "schwächer ausgeprägt",
+      "schwächer ausgeprägt"
+    ],
+    "is_unipolar": 0,
+    "is_dichotom": 0,
+    "is_degree_scale": 0
+  },
+  {
+    "name": "Klarheit",
+    "name_id": 42,
+    "definition": "Klarheit/Deutlichkeit beliebiger Szeneninhalte. Eindruck davon, wie klar Szeneninhalte voneinander unterschieden und wie gut verschiedenste Eigenschaften einzelner Szeneninhalte erkannt werden können. Der Begriff ist also weiter gefasst, als der in der Raumakustik durch das Klarheitsmaß prädizierte Eindruck einer mit steigender Nachhallenergie sinkenden Transparenz.",
+    "category": "Allgemeines",
+    "category_id": 8,
+    "scale_label": [
+      "schwächer ausgeprägt",
+      "schwächer ausgeprägt"
+    ],
+    "is_unipolar": 0,
+    "is_dichotom": 0,
+    "is_degree_scale": 0
+  },
+  {
+    "name": "Sprachverständlichkeit",
+    "name_id": 43,
+    "definition": "Eindruck davon, wie gut die Worte eines Sprechers verstanden werden können.\nTypisch für geringe Sprachverständlichkeit: Bahnhofsdurchsagen.\nTypisch für hohe Sprachverständlichkeit: Nachrichtensprecher.\n",
+    "category": "Allgemeines",
+    "category_id": 8,
+    "scale_label": [
+      "geringer",
+      "geringer"
+    ],
+    "is_unipolar": 0,
+    "is_dichotom": 0,
+    "is_degree_scale": 0
+  },
+  {
+    "name": "Natürlichkeit",
+    "name_id": 44,
+    "definition": "Eindruck, dass ein Signal der Erwartung/Erfahrung an eine solches Signal entspricht.",
+    "category": "Allgemeines",
+    "category_id": 8,
+    "scale_label": [
+      "unnatürlicher",
+      "unnatürlicher"
+    ],
+    "is_unipolar": 0,
+    "is_dichotom": 0,
+    "is_degree_scale": 0
+  },
+  {
+    "name": "Präsenz",
+    "name_id": 45,
+    "definition": "'In-der-Szene-Sein' im Sinne räumlicher Präsenz. Eindruck in einer präsentierten Szene vor Ort, in die Szene räumlich integriert zu sein.",
+    "category": "Allgemeines",
+    "category_id": 8,
+    "scale_label": [
+      "geringer",
+      "geringer"
+    ],
+    "is_unipolar": 0,
+    "is_dichotom": 0,
+    "is_degree_scale": 0
+  },
+  {
+    "name": "Gefallen",
+    "name_id": 46,
+    "definition": "Unterschied bzgl. Angenehmheit/Unangenehmheit.",
+    "category": "Allgemeines",
+    "category_id": 8,
+    "scale_label": [
+      "gefällt weniger",
+      "gefällt weniger"
+    ],
+    "is_unipolar": 0,
+    "is_dichotom": 0,
+    "is_degree_scale": 0
+  },
+  {
+    "name": "Sonstiges",
+    "name_id": 47,
+    "definition": "Weiterer, bisher noch nicht erfasster Unterschied.",
+    "category": null,
+    "category_id": 0,
+    "scale_label": [
+      "schwächer ausgerpägt",
+      "schwächer ausgerpägt"
+    ],
+    "is_unipolar": 0,
+    "is_dichotom": 0,
+    "is_degree_scale": 0
+  }
+]

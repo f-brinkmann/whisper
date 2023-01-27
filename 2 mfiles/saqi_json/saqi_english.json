@@ -1,0 +1,674 @@
+[
+  {
+    "name": "difference",
+    "name_id": 0,
+    "definition": "Existence of a noticeable difference.",
+    "category": null,
+    "category_id": 0,
+    "scale_label": [
+      "none",
+      "none"
+    ],
+    "is_unipolar": 1,
+    "is_dichotom": 0,
+    "is_degree_scale": 0
+  },
+  {
+    "name": "tone color bright-dark",
+    "name_id": 1,
+    "definition": "Timbral impression which is determined by the ratio of high to low frequency components.",
+    "category": "timbre",
+    "category_id": 1,
+    "scale_label": [
+      "darker",
+      "darker"
+    ],
+    "is_unipolar": 0,
+    "is_dichotom": 0,
+    "is_degree_scale": 0
+  },
+  {
+    "name": "high-frequency tone color",
+    "name_id": 2,
+    "definition": "Timbral change in a limited frequency range.",
+    "category": "timbre",
+    "category_id": 1,
+    "scale_label": [
+      "attenuated",
+      "attenuated"
+    ],
+    "is_unipolar": 0,
+    "is_dichotom": 0,
+    "is_degree_scale": 0
+  },
+  {
+    "name": "mid-frequency tone color",
+    "name_id": 3,
+    "definition": "Timbral change in a limited frequency range.",
+    "category": "timbre",
+    "category_id": 1,
+    "scale_label": [
+      "attenuated",
+      "attenuated"
+    ],
+    "is_unipolar": 0,
+    "is_dichotom": 0,
+    "is_degree_scale": 0
+  },
+  {
+    "name": "low-frequency tone color",
+    "name_id": 4,
+    "definition": "Timbral change in a limited frequency range.",
+    "category": "timbre",
+    "category_id": 1,
+    "scale_label": [
+      "attenuated",
+      "attenuated"
+    ],
+    "is_unipolar": 0,
+    "is_dichotom": 0,
+    "is_degree_scale": 0
+  },
+  {
+    "name": "sharpness",
+    "name_id": 5,
+    "definition": "Timbral impression which e.g., is indicative for the force with which a sound source is excited.\nExample:\n- Hard/soft beating of percussion instruments.\n- Hard/soft plucking of string instruments (classic guitar, harp).\n- Emphasized high frequencies may promote a 'sharp' sound impression.\n",
+    "category": "timbre",
+    "category_id": 1,
+    "scale_label": [
+      "less sharp",
+      "less sharp"
+    ],
+    "is_unipolar": 0,
+    "is_dichotom": 0,
+    "is_degree_scale": 0
+  },
+  {
+    "name": "roughness",
+    "name_id": 6,
+    "definition": "Timbral impression of fierce or aggressive modulation/vibration, whereas individual oscillations are hardly distinguishable.\nOften rated as unpleasant.\n",
+    "category": "timbre",
+    "category_id": 1,
+    "scale_label": [
+      "less rough",
+      "less rough"
+    ],
+    "is_unipolar": 0,
+    "is_dichotom": 0,
+    "is_degree_scale": 0
+  },
+  {
+    "name": "comb filter coloration",
+    "name_id": 7,
+    "definition": "Often perceived as tonal coloration. 'Hollow' sound.\nExample: Speaking through a tube.\n",
+    "category": "timbre",
+    "category_id": 1,
+    "scale_label": [
+      "less pronounced",
+      "less pronounced"
+    ],
+    "is_unipolar": 0,
+    "is_dichotom": 0,
+    "is_degree_scale": 0
+  },
+  {
+    "name": "metallic tone color",
+    "name_id": 8,
+    "definition": "Coloration with pronounced narrow-band resonances, often as a result of low density of natural frequencies.\nOften heard when exciting metallic objects such as gongs, bells, tin cans.\nApplicable to room simulations, plate reverb, spring reverb, too.\n",
+    "category": "timbre",
+    "category_id": 1,
+    "scale_label": [
+      "less pronounced",
+      "less pronounced"
+    ],
+    "is_unipolar": 0,
+    "is_dichotom": 0,
+    "is_degree_scale": 0
+  },
+  {
+    "name": "tonalness",
+    "name_id": 9,
+    "definition": "Perceptibility of a pitch in a sound.\nExample for tonal sounds: voiced speech, beeps\n",
+    "category": "tonalness",
+    "category_id": 2,
+    "scale_label": [
+      "less tonal",
+      "less tonal"
+    ],
+    "is_unipolar": 0,
+    "is_dichotom": 0,
+    "is_degree_scale": 0
+  },
+  {
+    "name": "pitch",
+    "name_id": 10,
+    "definition": "The perception of pitch allows arranging tonal signals along a scale 'higher - lower'.",
+    "category": "tonalness",
+    "category_id": 2,
+    "scale_label": [
+      "lower",
+      "lower"
+    ],
+    "is_unipolar": 0,
+    "is_dichotom": 0,
+    "is_degree_scale": 0
+  },
+  {
+    "name": "doppler effect",
+    "name_id": 11,
+    "definition": "Continuous change of pitch. Often perceived as a 'continuous detuning'.\nExample: 'Detuned' sound of the siren of a fast-moving ambulance.\n",
+    "category": "tonalness",
+    "category_id": 2,
+    "scale_label": [
+      "less pronounced",
+      "less pronounced"
+    ],
+    "is_unipolar": 0,
+    "is_dichotom": 0,
+    "is_degree_scale": 0
+  },
+  {
+    "name": "horizontal direction",
+    "name_id": 12,
+    "definition": "Direction of a sound source in the horizontal plane.",
+    "category": "geometry",
+    "category_id": 3,
+    "scale_label": [
+      "shifted anticlockwise",
+      "shifted anticlockwise"
+    ],
+    "is_unipolar": 0,
+    "is_dichotom": 0,
+    "is_degree_scale": 1
+  },
+  {
+    "name": "vertical direction",
+    "name_id": 13,
+    "definition": "Direction of a sound source in the vertical plane.",
+    "category": "geometry",
+    "category_id": 3,
+    "scale_label": [
+      "shifted down",
+      "shifted down"
+    ],
+    "is_unipolar": 0,
+    "is_dichotom": 0,
+    "is_degree_scale": 1
+  },
+  {
+    "name": "front-back position",
+    "name_id": 14,
+    "definition": "Refers to the position of a sound source before or behind the listener only.\nImpression of a position difference of a sound source caused by 'reflecting' its position on the frontal plane going through the listener.\n",
+    "category": "geometry",
+    "category_id": 3,
+    "scale_label": [
+      "not confused",
+      "not confused"
+    ],
+    "is_unipolar": 1,
+    "is_dichotom": 1,
+    "is_degree_scale": 0
+  },
+  {
+    "name": "distance",
+    "name_id": 15,
+    "definition": "Perceived distance of a sound source.",
+    "category": "geometry",
+    "category_id": 3,
+    "scale_label": [
+      "closer",
+      "closer"
+    ],
+    "is_unipolar": 0,
+    "is_dichotom": 0,
+    "is_degree_scale": 0
+  },
+  {
+    "name": "depth",
+    "name_id": 16,
+    "definition": "Perceived extent of a sound source in radial direction.",
+    "category": "geometry",
+    "category_id": 3,
+    "scale_label": [
+      "less deep",
+      "less deep"
+    ],
+    "is_unipolar": 0,
+    "is_dichotom": 0,
+    "is_degree_scale": 0
+  },
+  {
+    "name": "width",
+    "name_id": 17,
+    "definition": "Perceived extent of a sound source in horizontal direction.",
+    "category": "geometry",
+    "category_id": 3,
+    "scale_label": [
+      "less wide",
+      "less wide"
+    ],
+    "is_unipolar": 0,
+    "is_dichotom": 0,
+    "is_degree_scale": 0
+  },
+  {
+    "name": "height",
+    "name_id": 18,
+    "definition": "Perceived extent of a sound source in vertical direction.",
+    "category": "geometry",
+    "category_id": 3,
+    "scale_label": [
+      "less high",
+      "less high"
+    ],
+    "is_unipolar": 0,
+    "is_dichotom": 0,
+    "is_degree_scale": 0
+  },
+  {
+    "name": "externalization",
+    "name_id": 19,
+    "definition": "Describes the distinctness with which a sound source is perceived within or outside the head regardless of their distance.\nTerminologically often enclosed between the phenomena of in-head localization and out-of-head localization.\nExamples:\n- Poorly/not externalized = Perceived position of sound sources at diotic sound presentation via headphones.\n- Good/strongly externalized = Perceived position of a natural source in reverberant environment and when allowing for movements of the listener.\n",
+    "category": "geometry",
+    "category_id": 3,
+    "scale_label": [
+      "more internalized",
+      "more internalized"
+    ],
+    "is_unipolar": 0,
+    "is_dichotom": 0,
+    "is_degree_scale": 0
+  },
+  {
+    "name": "localizability",
+    "name_id": 20,
+    "definition": "If localizability is low, spatial extent and location of a sound source are difficult to estimate, or appear diffuse, resp.\nIf localizability is high, a sound source is clearly delimited. Low/high localizability is often associated with high/low perceived extent of a sound source.\nExamples: sound sources in highly diffuse sound field are poorly localizable.\n",
+    "category": "geometry",
+    "category_id": 3,
+    "scale_label": [
+      "more difficult",
+      "more difficult"
+    ],
+    "is_unipolar": 0,
+    "is_dichotom": 0,
+    "is_degree_scale": 0
+  },
+  {
+    "name": "spatial disintegration",
+    "name_id": 21,
+    "definition": "Sound sources, which - by experience - should have a united spatial shape, appear spatially separated.\nPossible cause: Parts of the sound source have been synthesized/simulated using separated algorithms/simulation methods and between those exists an unwanted offset in spatial parameters.\nExamples:\n- Fingering noise and playing tones of an instrument appear at different positions.\n- Spirant and voiced phonemes of speech are synthesized separately and then reproduced with an unwanted spatial separation.\n",
+    "category": "geometry",
+    "category_id": 3,
+    "scale_label": [
+      "more coherent",
+      "more coherent"
+    ],
+    "is_unipolar": 0,
+    "is_dichotom": 0,
+    "is_degree_scale": 0
+  },
+  {
+    "name": "level of reverberation",
+    "name_id": 22,
+    "definition": "Perception of a strong reverberant sound field, caused by a high ratio of reflected to direct sound energy.\nLeads to the impression of high diffusivity in case of stationary excitation (in the sense of a low D/R-ratio).\nExample: The perceived intensity of reverberation differs significantly between rather small and very large spaces, such as living rooms and churches.\n",
+    "category": "room",
+    "category_id": 4,
+    "scale_label": [
+      "less",
+      "less"
+    ],
+    "is_unipolar": 0,
+    "is_dichotom": 0,
+    "is_degree_scale": 0
+  },
+  {
+    "name": "duration of reverberation",
+    "name_id": 23,
+    "definition": "Duration of the reverberant decay. Well audible at the end of signals.",
+    "category": "room",
+    "category_id": 4,
+    "scale_label": [
+      "shorter",
+      "shorter"
+    ],
+    "is_unipolar": 0,
+    "is_dichotom": 0,
+    "is_degree_scale": 0
+  },
+  {
+    "name": "envelopment (by reverberation)",
+    "name_id": 24,
+    "definition": "Sensation of being spatially surrounded by the reverberation. With more pronounced envelopment of reverberation, it is increasingly difficult to assign a specific position, a limited extension or a preferred direction to the reverberation.\nImpressions of either low or high reverberation envelopment arise with either diotic or dichotic (i.e., uncorrelated) presentation of reverberant audio material.\n",
+    "category": "room",
+    "category_id": 4,
+    "scale_label": [
+      "less pronounced",
+      "less pronounced"
+    ],
+    "is_unipolar": 0,
+    "is_dichotom": 0,
+    "is_degree_scale": 0
+  },
+  {
+    "name": "pre-echoes",
+    "name_id": 25,
+    "definition": "Copies of a sound with mostly lower loudness prior to the actually intended the starting point of a sound.",
+    "category": "time behaviour",
+    "category_id": 5,
+    "scale_label": [
+      "less intense",
+      "less intense"
+    ],
+    "is_unipolar": 0,
+    "is_dichotom": 0,
+    "is_degree_scale": 0
+  },
+  {
+    "name": "post-echoes",
+    "name_id": 26,
+    "definition": "Copies of a sound with mostly decreasing loudness after the actually intended the starting point of a sound.\nExample: Repetition of one's own voice through reflection on mountain walls\n",
+    "category": "time behaviour",
+    "category_id": 5,
+    "scale_label": [
+      "less intense",
+      "less intense"
+    ],
+    "is_unipolar": 0,
+    "is_dichotom": 0,
+    "is_degree_scale": 0
+  },
+  {
+    "name": "temporal disintegration",
+    "name_id": 27,
+    "definition": "Sound sources, which - by experience - should have a united temporal shape, appear temporally separated.\nCauses similar to 'spatial disintegration', however, here: due to timing-offsets in synthesis.\nExample: Fingering noise and playing tones of an instrument appear at different points in time.\n",
+    "category": "time behaviour",
+    "category_id": 5,
+    "scale_label": [
+      "more coherent",
+      "more coherent"
+    ],
+    "is_unipolar": 0,
+    "is_dichotom": 0,
+    "is_degree_scale": 0
+  },
+  {
+    "name": "crispness",
+    "name_id": 28,
+    "definition": "Characteristic which is affected by the impulse fidelity of systems. Perception of the reproduction of transients. Transients can either be more soft/more smoothed/less precise, or - as opposed -  be quicker/more precise/ more exact.\nExample for 'smoothed' transients:\nA transmission system that exhibits strong group delay distortions.\nCounter-example:\nResult of an equalization aiming at phase linearization.\n",
+    "category": "time behaviour",
+    "category_id": 5,
+    "scale_label": [
+      "less pronounced",
+      "less pronounced"
+    ],
+    "is_unipolar": 0,
+    "is_dichotom": 0,
+    "is_degree_scale": 0
+  },
+  {
+    "name": "speed",
+    "name_id": 29,
+    "definition": "A scene is identical in content and sound, but evolves faster or slower. Does not have to be accompanied by a change in pitch.\nExamples of technical reasons:\n- rotation speed\n- sample rate conversion\n- time stretching\n- changed duration of pauses between signal starting points\n- movements proceed at a different speed\n",
+    "category": "time behaviour",
+    "category_id": 5,
+    "scale_label": [
+      "reduced",
+      "reduced"
+    ],
+    "is_unipolar": 0,
+    "is_dichotom": 0,
+    "is_degree_scale": 0
+  },
+  {
+    "name": "sequence of events",
+    "name_id": 30,
+    "definition": "Order or occurrence of scene components.\nExample: A dog suddenly barks at the end, instead - and as opposed to the reference - at the beginning.\n",
+    "category": "time behaviour",
+    "category_id": 5,
+    "scale_label": [
+      "unchanged",
+      "unchanged"
+    ],
+    "is_unipolar": 1,
+    "is_dichotom": 0,
+    "is_degree_scale": 0
+  },
+  {
+    "name": "responsiveness",
+    "name_id": 31,
+    "definition": "Characteristic that is affected by latencies in the reproduction system. Distinguishes between more or less delayed reactions of a reproduction system with respect to user interactions.",
+    "category": "time behaviour",
+    "category_id": 5,
+    "scale_label": [
+      "lower",
+      "lower"
+    ],
+    "is_unipolar": 0,
+    "is_dichotom": 0,
+    "is_degree_scale": 0
+  },
+  {
+    "name": "loudness",
+    "name_id": 32,
+    "definition": "Perceived loudness of a sound source. Disappearance of a sound source can be stated by a loudness equaling zero.\nExample of a loudness contrast: whispering vs. screaming\n",
+    "category": "dynamics",
+    "category_id": 6,
+    "scale_label": [
+      "quieter",
+      "quieter"
+    ],
+    "is_unipolar": 0,
+    "is_dichotom": 0,
+    "is_degree_scale": 0
+  },
+  {
+    "name": "dynamic range",
+    "name_id": 33,
+    "definition": "Amount of loudness differences between loud and soft passages. In signals with a smaller dynamic range loud and soft passages differ less from the average loudness. Signals with a larger dynamic range contain both very loud and very soft passages.",
+    "category": "dynamics",
+    "category_id": 6,
+    "scale_label": [
+      "smaller",
+      "smaller"
+    ],
+    "is_unipolar": 0,
+    "is_dichotom": 0,
+    "is_degree_scale": 0
+  },
+  {
+    "name": "dynamic compression effects",
+    "name_id": 34,
+    "definition": "Sound changes beyond the long-term loudness. Collective category for a variety of percepts caused by dynamic compression.\nExamples:\n- More compact sound of sum-compressed music tracks in comparison to the unedited original.\n- 'Compressor pumping': Energy peaks in audio signals (bass drums, speech plosives) lead to a sudden drop in signal loudness which needs a susceptible period of time to recover.\n",
+    "category": "dynamics",
+    "category_id": 6,
+    "scale_label": [
+      "less pronounced",
+      "less pronounced"
+    ],
+    "is_unipolar": 0,
+    "is_dichotom": 0,
+    "is_degree_scale": 0
+  },
+  {
+    "name": "pitched artifact",
+    "name_id": 35,
+    "definition": "Perception of a clearly unintended sound event.\nFor example, a disturbing tone which is clearly not associated with the presented scene, such as an unexpected beep.\n",
+    "category": "artifacts",
+    "category_id": 7,
+    "scale_label": [
+      "less intense",
+      "less intense"
+    ],
+    "is_unipolar": 0,
+    "is_dichotom": 0,
+    "is_degree_scale": 0
+  },
+  {
+    "name": "impulsive artifact",
+    "name_id": 36,
+    "definition": "Perception of a clearly unintended sound event.\nFor example, a short disturbing sound which is clearly not associated with the presented scene, such as an unexpected click.\n",
+    "category": "artifacts",
+    "category_id": 7,
+    "scale_label": [
+      "less intense",
+      "less intense"
+    ],
+    "is_unipolar": 0,
+    "is_dichotom": 0,
+    "is_degree_scale": 0
+  },
+  {
+    "name": "noise-like artifact",
+    "name_id": 37,
+    "definition": "Perception of a clearly unintended sound event.\nFor example, a noise which is clearly not associated with the presented scene, such as a background noise from of a fan.\n",
+    "category": "artifacts",
+    "category_id": 7,
+    "scale_label": [
+      "less intense",
+      "less intense"
+    ],
+    "is_unipolar": 0,
+    "is_dichotom": 0,
+    "is_degree_scale": 0
+  },
+  {
+    "name": "alien source",
+    "name_id": 38,
+    "definition": "Perception of a clearly unintended sound event.\nExamples:\n- An interfering radio signal.\n- A wrongly unmuted mixing desk channel.\n",
+    "category": "artifacts",
+    "category_id": 7,
+    "scale_label": [
+      "less intense",
+      "less intense"
+    ],
+    "is_unipolar": 0,
+    "is_dichotom": 0,
+    "is_degree_scale": 0
+  },
+  {
+    "name": "ghost source",
+    "name_id": 39,
+    "definition": "Spatially separated, nearly simultaneous and not necessarily identical image of a sound source.\nA kind of a spatial copy of a signal: A sound source appears at one or more additional positions in the scene.\nExamples:\n- Two sound sources which are erroneously playing back the same audio content.\n- Double images when down-mixing main and spot microphone recordings.\n- Spatial aliasing in wave field synthesis (WFS): Sound sources are perceived as ambivalent in direction.\n",
+    "category": "artifacts",
+    "category_id": 7,
+    "scale_label": [
+      "less intense",
+      "less intense"
+    ],
+    "is_unipolar": 0,
+    "is_dichotom": 0,
+    "is_degree_scale": 0
+  },
+  {
+    "name": "distortion",
+    "name_id": 40,
+    "definition": "Percept as a result of non-linear distortions as caused e.g. by clipping. Scratchy or 'broken' sound. Often dependent on signal amplitude. Perceptual quality can vary widely depending on the type of distortion.\nExample: Clipping of digital input stages.\n",
+    "category": "artifacts",
+    "category_id": 7,
+    "scale_label": [
+      "less intense",
+      "less intense"
+    ],
+    "is_unipolar": 0,
+    "is_dichotom": 0,
+    "is_degree_scale": 0
+  },
+  {
+    "name": "tactile vibration",
+    "name_id": 41,
+    "definition": "Perception at the border between auditory and tactile modality. Vibration caused by a sound source can be felt through mechanical coupling to supporting surfaces.\nExamples:\n- live concert: Bass can be 'felt in the stomach'.\n- Headphone cushions vibrate noticeably on the ear/head.\n",
+    "category": "artifacts",
+    "category_id": 7,
+    "scale_label": [
+      "less intense",
+      "less intense"
+    ],
+    "is_unipolar": 0,
+    "is_dichotom": 0,
+    "is_degree_scale": 0
+  },
+  {
+    "name": "clarity",
+    "name_id": 42,
+    "definition": "Clarity/clearness with respect to any characteristic of elements of a sound scene. Impression of how clearly different elements in a scene can be distinguished from each other or how well various properties of individual scene elements can be detected. The term is thus to be understood much broader than the in realm of room acoustics, where clarity is used to predict the impression of declining transparency with increasing reverberation.",
+    "category": "general",
+    "category_id": 8,
+    "scale_label": [
+      "less pronounced",
+      "less pronounced"
+    ],
+    "is_unipolar": 0,
+    "is_dichotom": 0,
+    "is_degree_scale": 0
+  },
+  {
+    "name": "speech intelligibility",
+    "name_id": 43,
+    "definition": "Impression of how well the words of a speaker can be understood.\n- Typical for low speech intelligibility: train station announcements\n- Typical for high speech intelligibility: newscaster\n",
+    "category": "general",
+    "category_id": 8,
+    "scale_label": [
+      "lower",
+      "lower"
+    ],
+    "is_unipolar": 0,
+    "is_dichotom": 0,
+    "is_degree_scale": 0
+  },
+  {
+    "name": "naturalness",
+    "name_id": 44,
+    "definition": "Impression that a signal is in accordance with the expectation/former experience of an equivalent signal.",
+    "category": "general",
+    "category_id": 8,
+    "scale_label": [
+      "lower",
+      "lower"
+    ],
+    "is_unipolar": 0,
+    "is_dichotom": 0,
+    "is_degree_scale": 0
+  },
+  {
+    "name": "presence",
+    "name_id": 45,
+    "definition": "Perception of 'being-in-the-scene', or 'spatial presence'. Impression of being inside a presented scene or to be spatially integrated into the scene.",
+    "category": "general",
+    "category_id": 8,
+    "scale_label": [
+      "lower",
+      "lower"
+    ],
+    "is_unipolar": 0,
+    "is_dichotom": 0,
+    "is_degree_scale": 0
+  },
+  {
+    "name": "degree-of-liking",
+    "name_id": 46,
+    "definition": "Difference with respect to pleasantness/unpleasantness. Evaluation of the perceived overall difference with respect to the degree of enjoyment or displeasure. Note that 'preference' might not be used synonymously, as, e.g., there may be situations where something is preferred that is - at the same time - not liked most.",
+    "category": "general",
+    "category_id": 8,
+    "scale_label": [
+      "lower",
+      "lower"
+    ],
+    "is_unipolar": 0,
+    "is_dichotom": 0,
+    "is_degree_scale": 0
+  },
+  {
+    "name": "other",
+    "name_id": 47,
+    "definition": "Another, previously unrecognized difference.",
+    "category": null,
+    "category_id": 0,
+    "scale_label": [
+      "less pronounced",
+      "less pronounced"
+    ],
+    "is_unipolar": 0,
+    "is_dichotom": 0,
+    "is_degree_scale": 0
+  }
+]
