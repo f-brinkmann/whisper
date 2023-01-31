@@ -46,7 +46,7 @@ for ll = 1:2
         saqi(ii,1).category_id = SAQI_Items{ii, 5};
 
          % scale label
-        saqi(ii,1).scale_label = {SAQI_scale_label{ii, 2}, SAQI_scale_label{ii, 2}};
+        saqi(ii,1).scale_label = {SAQI_scale_label{ii, 2}, SAQI_scale_label{ii, 3}};
 
         % scale categorization
         saqi(ii,1).is_unipolar = SAQI_Items{ii, 4};

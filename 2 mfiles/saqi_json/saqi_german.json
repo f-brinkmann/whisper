@@ -7,7 +7,7 @@
     "category_id": 0,
     "scale_label": [
       "gar keiner",
-      "gar keiner"
+      "sehr großer"
     ],
     "is_unipolar": 1,
     "is_dichotom": 0,
@@ -21,7 +21,7 @@
     "category_id": 1,
     "scale_label": [
       "dunkler",
-      "dunkler"
+      "heller"
     ],
     "is_unipolar": 0,
     "is_dichotom": 0,
@@ -35,7 +35,7 @@
     "category_id": 1,
     "scale_label": [
       "Höhen abgesenkt",
-      "Höhen abgesenkt"
+      "Höhen angehoben"
     ],
     "is_unipolar": 0,
     "is_dichotom": 0,
@@ -49,7 +49,7 @@
     "category_id": 1,
     "scale_label": [
       "Mitten abgesenkt",
-      "Mitten abgesenkt"
+      "Mitten angehoben"
     ],
     "is_unipolar": 0,
     "is_dichotom": 0,
@@ -63,7 +63,7 @@
     "category_id": 1,
     "scale_label": [
       "Tiefen abgesenkt",
-      "Tiefen abgesenkt"
+      "Tiefen angehoben"
     ],
     "is_unipolar": 0,
     "is_dichotom": 0,
@@ -77,7 +77,7 @@
     "category_id": 1,
     "scale_label": [
       "schwächer ausgeprägt",
-      "schwächer ausgeprägt"
+      "stärker ausgeprägt"
     ],
     "is_unipolar": 0,
     "is_dichotom": 0,
@@ -91,7 +91,7 @@
     "category_id": 1,
     "scale_label": [
       "schwächer ausgeprägt",
-      "schwächer ausgeprägt"
+      "stärker ausgeprägt"
     ],
     "is_unipolar": 0,
     "is_dichotom": 0,
@@ -105,7 +105,7 @@
     "category_id": 1,
     "scale_label": [
       "schwächer ausgeprägt",
-      "schwächer ausgeprägt"
+      "stärker ausgeprägt"
     ],
     "is_unipolar": 0,
     "is_dichotom": 0,
@@ -119,7 +119,7 @@
     "category_id": 1,
     "scale_label": [
       "schwächer ausgeprägt",
-      "schwächer ausgeprägt"
+      "stärker ausgeprägt"
     ],
     "is_unipolar": 0,
     "is_dichotom": 0,
@@ -133,7 +133,7 @@
     "category_id": 2,
     "scale_label": [
       "weniger tonal",
-      "weniger tonal"
+      "tonaler"
     ],
     "is_unipolar": 0,
     "is_dichotom": 0,
@@ -147,7 +147,7 @@
     "category_id": 2,
     "scale_label": [
       "tiefer",
-      "tiefer"
+      "höher"
     ],
     "is_unipolar": 0,
     "is_dichotom": 0,
@@ -161,7 +161,7 @@
     "category_id": 2,
     "scale_label": [
       "schwächer ausgeprägt",
-      "schwächer ausgeprägt"
+      "stärker ausgeprägt"
     ],
     "is_unipolar": 0,
     "is_dichotom": 0,
@@ -175,7 +175,7 @@
     "category_id": 3,
     "scale_label": [
       "entgegen dem Uhrzeigersinn versetzt",
-      "entgegen dem Uhrzeigersinn versetzt"
+      "im Uhrzeigersinn versetzt"
     ],
     "is_unipolar": 0,
     "is_dichotom": 0,
@@ -189,7 +189,7 @@
     "category_id": 3,
     "scale_label": [
       "nach unten versetzt",
-      "nach unten versetzt"
+      "nach oben versetzt"
     ],
     "is_unipolar": 0,
     "is_dichotom": 0,
@@ -203,7 +203,7 @@
     "category_id": 3,
     "scale_label": [
       "nicht vertauscht",
-      "nicht vertauscht"
+      "vertauscht"
     ],
     "is_unipolar": 1,
     "is_dichotom": 1,
@@ -217,7 +217,7 @@
     "category_id": 3,
     "scale_label": [
       "näher",
-      "näher"
+      "ferner"
     ],
     "is_unipolar": 0,
     "is_dichotom": 0,
@@ -231,7 +231,7 @@
     "category_id": 3,
     "scale_label": [
       "kürzer",
-      "kürzer"
+      "tiefer"
     ],
     "is_unipolar": 0,
     "is_dichotom": 0,
@@ -245,7 +245,7 @@
     "category_id": 3,
     "scale_label": [
       "schmaler",
-      "schmaler"
+      "breiter"
     ],
     "is_unipolar": 0,
     "is_dichotom": 0,
@@ -259,7 +259,7 @@
     "category_id": 3,
     "scale_label": [
       "niedriger",
-      "niedriger"
+      "höher"
     ],
     "is_unipolar": 0,
     "is_dichotom": 0,
@@ -273,7 +273,7 @@
     "category_id": 3,
     "scale_label": [
       "internalisierter",
-      "internalisierter"
+      "externalisierter"
     ],
     "is_unipolar": 0,
     "is_dichotom": 0,
@@ -287,7 +287,7 @@
     "category_id": 3,
     "scale_label": [
       "unpräziser",
-      "unpräziser"
+      "präziser"
     ],
     "is_unipolar": 0,
     "is_dichotom": 0,
@@ -301,7 +301,7 @@
     "category_id": 3,
     "scale_label": [
       "fusionierter",
-      "fusionierter"
+      "zerfallener"
     ],
     "is_unipolar": 0,
     "is_dichotom": 0,
@@ -315,7 +315,7 @@
     "category_id": 4,
     "scale_label": [
       "schwächer ausgeprägt",
-      "schwächer ausgeprägt"
+      "stärker ausgeprägt"
     ],
     "is_unipolar": 0,
     "is_dichotom": 0,
@@ -329,7 +329,7 @@
     "category_id": 4,
     "scale_label": [
       "kürzer",
-      "kürzer"
+      "länger"
     ],
     "is_unipolar": 0,
     "is_dichotom": 0,
@@ -343,7 +343,7 @@
     "category_id": 4,
     "scale_label": [
       "schwächer ausgeprägt",
-      "schwächer ausgeprägt"
+      "stärker ausgeprägt"
     ],
     "is_unipolar": 0,
     "is_dichotom": 0,
@@ -357,7 +357,7 @@
     "category_id": 5,
     "scale_label": [
       "schwächer ausgeprägt",
-      "schwächer ausgeprägt"
+      "stärker ausgeprägt"
     ],
     "is_unipolar": 0,
     "is_dichotom": 0,
@@ -371,7 +371,7 @@
     "category_id": 5,
     "scale_label": [
       "schwächer ausgeprägt",
-      "schwächer ausgeprägt"
+      "stärker ausgeprägt"
     ],
     "is_unipolar": 0,
     "is_dichotom": 0,
@@ -385,7 +385,7 @@
     "category_id": 5,
     "scale_label": [
       "fusionierter",
-      "fusionierter"
+      "zerfallener"
     ],
     "is_unipolar": 0,
     "is_dichotom": 0,
@@ -399,7 +399,7 @@
     "category_id": 5,
     "scale_label": [
       "schwächer ausgeprägt",
-      "schwächer ausgeprägt"
+      "stärker ausgeprägt"
     ],
     "is_unipolar": 0,
     "is_dichotom": 0,
@@ -413,7 +413,7 @@
     "category_id": 5,
     "scale_label": [
       "verlangsamt",
-      "verlangsamt"
+      "beschleunigt"
     ],
     "is_unipolar": 0,
     "is_dichotom": 0,
@@ -427,7 +427,7 @@
     "category_id": 5,
     "scale_label": [
       "unverändert",
-      "unverändert"
+      "stark verändert"
     ],
     "is_unipolar": 1,
     "is_dichotom": 0,
@@ -441,7 +441,7 @@
     "category_id": 5,
     "scale_label": [
       "geringer",
-      "geringer"
+      "höher"
     ],
     "is_unipolar": 0,
     "is_dichotom": 0,
@@ -455,7 +455,7 @@
     "category_id": 6,
     "scale_label": [
       "leiser",
-      "leiser"
+      "lauter"
     ],
     "is_unipolar": 0,
     "is_dichotom": 0,
@@ -469,7 +469,7 @@
     "category_id": 6,
     "scale_label": [
       "geringer",
-      "geringer"
+      "höher"
     ],
     "is_unipolar": 0,
     "is_dichotom": 0,
@@ -483,7 +483,7 @@
     "category_id": 6,
     "scale_label": [
       "schwächer ausgeprägt",
-      "schwächer ausgeprägt"
+      "stärker ausgeprägt"
     ],
     "is_unipolar": 0,
     "is_dichotom": 0,
@@ -497,7 +497,7 @@
     "category_id": 7,
     "scale_label": [
       "schwächer ausgeprägt",
-      "schwächer ausgeprägt"
+      "stärker ausgeprägt"
     ],
     "is_unipolar": 0,
     "is_dichotom": 0,
@@ -511,7 +511,7 @@
     "category_id": 7,
     "scale_label": [
       "schwächer ausgeprägt",
-      "schwächer ausgeprägt"
+      "stärker ausgeprägt"
     ],
     "is_unipolar": 0,
     "is_dichotom": 0,
@@ -525,7 +525,7 @@
     "category_id": 7,
     "scale_label": [
       "schwächer ausgeprägt",
-      "schwächer ausgeprägt"
+      "stärker ausgeprägt"
     ],
     "is_unipolar": 0,
     "is_dichotom": 0,
@@ -539,7 +539,7 @@
     "category_id": 7,
     "scale_label": [
       "schwächer ausgeprägt",
-      "schwächer ausgeprägt"
+      "stärker ausgeprägt"
     ],
     "is_unipolar": 0,
     "is_dichotom": 0,
@@ -553,7 +553,7 @@
     "category_id": 7,
     "scale_label": [
       "schwächer ausgeprägt",
-      "schwächer ausgeprägt"
+      "stärker ausgeprägt"
     ],
     "is_unipolar": 0,
     "is_dichotom": 0,
@@ -567,7 +567,7 @@
     "category_id": 7,
     "scale_label": [
       "schwächer ausgeprägt",
-      "schwächer ausgeprägt"
+      "stärker ausgeprägt"
     ],
     "is_unipolar": 0,
     "is_dichotom": 0,
@@ -581,7 +581,7 @@
     "category_id": 7,
     "scale_label": [
       "schwächer ausgeprägt",
-      "schwächer ausgeprägt"
+      "stärker ausgeprägt"
     ],
     "is_unipolar": 0,
     "is_dichotom": 0,
@@ -595,7 +595,7 @@
     "category_id": 8,
     "scale_label": [
       "schwächer ausgeprägt",
-      "schwächer ausgeprägt"
+      "stärker ausgeprägt"
     ],
     "is_unipolar": 0,
     "is_dichotom": 0,
@@ -609,7 +609,7 @@
     "category_id": 8,
     "scale_label": [
       "geringer",
-      "geringer"
+      "höher"
     ],
     "is_unipolar": 0,
     "is_dichotom": 0,
@@ -623,7 +623,7 @@
     "category_id": 8,
     "scale_label": [
       "unnatürlicher",
-      "unnatürlicher"
+      "natürlicher"
     ],
     "is_unipolar": 0,
     "is_dichotom": 0,
@@ -637,7 +637,7 @@
     "category_id": 8,
     "scale_label": [
       "geringer",
-      "geringer"
+      "höher"
     ],
     "is_unipolar": 0,
     "is_dichotom": 0,
@@ -651,7 +651,7 @@
     "category_id": 8,
     "scale_label": [
       "gefällt weniger",
-      "gefällt weniger"
+      "gefällt mehr"
     ],
     "is_unipolar": 0,
     "is_dichotom": 0,
@@ -665,7 +665,7 @@
     "category_id": 0,
     "scale_label": [
       "schwächer ausgerpägt",
-      "schwächer ausgerpägt"
+      "stärker ausgeprägt"
     ],
     "is_unipolar": 0,
     "is_dichotom": 0,
